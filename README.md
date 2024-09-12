@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on digital art projects
 - 📫 How to reach me here
 - 😄 Pronouns: none
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: hi
 
 <!---
 yggi-art/yggi-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
